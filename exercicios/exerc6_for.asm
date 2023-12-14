@@ -18,5 +18,3 @@ for_end:
 
 #os valores das variaveis i e k nao estao atualizados na memoria
 
-
-
